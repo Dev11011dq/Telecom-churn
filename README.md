@@ -2,9 +2,7 @@
 # telco-churn-mlops — IBM Telco Customer Churn (End-to-End)
 
 An end-to-end ML project using the **IBM Telco Customer Churn** dataset from Kaggle to demonstrate the full pipeline:
-data ingestion → EDA → feature engineering → modeling → evaluation → **Streamlit app** deployment.
-
-Dataset: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
+data ingestion → EDA → feature engineering → modeling → evaluation → **Streamlit app** deploymen
 
 ---
 
